@@ -15,5 +15,9 @@ C / Control = Auto skip and read text
 ` = Reset game
 
 ## Gameplay
-
-1.0 has three phases and has 438426 HP in phases 1 and 3, but a random amount of around over 100 HP for phase 2. 
+<details>
+  <summary>SPOILERS, READ AT YOUR OWN RISK</summary>
+  
+  1.0 has three phases and has 438426 HP in phases 1 and 3, but a random amount of around over 100 HP for phase 2. Unless tired, in phases 1 and 3 if you try to attack him normally, he will deflect it    and it will deal 0 damage
+  
+</details>
