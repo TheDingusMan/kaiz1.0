@@ -5,9 +5,13 @@ A very super hard version of deltraune (hard mode), which is a harder version of
 ## Controls
 
 Arrow keys = Move, move menu
+
 Z / Enter = Confirm, read text
+
 X / Shift = Exit, skip text
+
 C / Control = Auto skip and read text
+
 ` = Reset game
 
 ## Gameplay
