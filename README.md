@@ -43,3 +43,5 @@ Mercy = Puts you in an undodgeable attack unless 1.0 is TIRED and you have 100% 
 
 
 goodluckyoullneedit
+
+alsophaseonehasafinalattack
